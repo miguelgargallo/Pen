@@ -58,15 +58,15 @@ The .mdp file format combines the formatting capabilities of traditional markdow
 
 ## 12 Things that mdp can do that .md can't
 
-1 - Syntax for defining actions and importing libraries in the Pylar programming language
-2 - Numbering system for headings, paragraphs, and other text elements for easier organization and navigation.
-3 - Additional formatting options for paragraphs and lists, such as bullet points or numbered lists
-4 - Syntax highlighting for Pylar code blocks
-5 - Custom containers for grouping and formatting content
-6 - Definition of terms, abbreviations, acronyms, symbols, variables, functions, classes, methods, properties, and attributes in the Pylar language
-7 - Emoji support for adding emoticons to text
-8 - Anchor links for creating hyperlinks that jump to specific sections within the document
-9 - Blockquotes with custom styling options
-10 - Definition lists with custom formatting options
-11 - Task lists with checkbox options
-12 - Abbreviations with custom definitions and styling options
+- Syntax for defining actions and importing libraries in the Pylar programming language
+- Numbering system for headings, paragraphs, and other text elements for easier organization and navigation.
+- Additional formatting options for paragraphs and lists, such as bullet points or numbered lists
+- Syntax highlighting for Pylar code blocks
+- Custom containers for grouping and formatting content
+- Definition of terms, abbreviations, acronyms, symbols, variables, functions, classes, methods, properties, and attributes in the Pylar language
+- Emoji support for adding emoticons to text
+- Anchor links for creating hyperlinks that jump to specific sections within the document
+- Blockquotes with custom styling options
+- Definition lists with custom formatting options
+- Task lists with checkbox options
+- Abbreviations with custom definitions and styling options
