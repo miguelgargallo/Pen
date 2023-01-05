@@ -1,8 +1,8 @@
-#title Pencil File Format
+#1 Pencil
 
-#quote A new file format for Pylar and the rest of the us.
+#2 A new file format for Pylar and the rest of the us.
 
-#paragraphs
+#3
 The .pencil file is a variation of the traditional markdown file format that is used for formatting text and creating documents in the Pylar programming language. The .pencil file adds additional syntax for defining actions and importing libraries in the Pylar language, including keywords such as 'say', 'ifis', and 'also'. These keywords are used to perform specific tasks or operations in the Pylar language, such as printing output to the console, specifying a condition in an if statement, or defining a variable.
 
 One difference between the .pencil file and the traditional markdown (.md) file is that the .pencil file includes a numbering system for headings, paragraphs, and other text elements. For example, a heading might be formatted as "#1 Title" or "#2 Subtitle", with the number indicating the level of the heading. This numbering system allows for easier organization and navigation within the .pencil document.
