@@ -1,33 +1,33 @@
-# Pencil
+# pen
 
-## What is pencil?
+## What is pen?
 
-The .pencil file is a variation of the traditional markdown file format that is used for formatting text and creating documents in the Pylar programming language. The .pencil file adds additional syntax for defining actions and importing libraries in the Pylar language, including keywords such as 'say', 'ifis', and 'also'. These keywords are used to perform specific tasks or operations in the Pylar language, such as printing output to the console, specifying a condition in an if statement, or defining a variable.
+The .pen file is a variation of the traditional markdown file format that is used for formatting text and creating documents in the Pylar programming language. The .pen file adds additional syntax for defining actions and importing libraries in the Pylar language, including keywords such as 'say', 'ifis', and 'also'. These keywords are used to perform specific tasks or operations in the Pylar language, such as printing output to the console, specifying a condition in an if statement, or defining a variable.
 
 ## Modularity
 
-In the .pencil file format, users have the ability to customize how they want to mark the sections of their document. By adding ".pencil" to the root of their .pencil file, users can specify their own unique syntax for headings, paragraphs, and other text elements.
+In the .pen file format, users have the ability to customize how they want to mark the sections of their document. By adding ".pen" to the root of their .pen file, users can specify their own unique syntax for headings, paragraphs, and other text elements.
 
 For example, instead of using the default numbering system for headings, such as "#1 Title" or "#2 Subtitle", users can specify their own syntax using words, symbols, or other characters. For instance, a heading might be formatted as "#A Title" or "#🚩 Subtitle".
 
-This customization feature allows users to tailor the .pencil file to their specific needs and preferences, and can make it easier to navigate and organize their document. It is also possible to change the default syntax for other elements such as paragraphs, lists, and code blocks, by simply specifying a new syntax in the .pencil file.
+This customization feature allows users to tailor the .pen file to their specific needs and preferences, and can make it easier to navigate and organize their document. It is also possible to change the default syntax for other elements such as paragraphs, lists, and code blocks, by simply specifying a new syntax in the .pen file.
 
-Overall, the .pencil file format provides users with the flexibility to customize the formatting and organization of their document in a way that best suits their needs.
+Overall, the .pen file format provides users with the flexibility to customize the formatting and organization of their document in a way that best suits their needs.
 
-## How do I use pencil?
+## How do I use pen?
 
-One difference between the .pencil file and the traditional markdown (.md) file is that the .pencil file includes a numbering system for headings, paragraphs, and other text elements. For example, a heading might be formatted as "#1 Title" or "#2 Subtitle", with the number indicating the level of the heading. This numbering system allows for easier organization and navigation within the .pencil document.
+One difference between the .pen file and the traditional markdown (.md) file is that the .pen file includes a numbering system for headings, paragraphs, and other text elements. For example, a heading might be formatted as "#1 Title" or "#2 Subtitle", with the number indicating the level of the heading. This numbering system allows for easier organization and navigation within the .pen document.
 
-## md Vs pencil
+## md Vs pen
 
-Another difference is that the .pencil file includes additional formatting options for paragraphs and lists, such as the ability to specify bullet points or numbered lists. These formatting options can be specified by using specific keywords, such as 'bullet' or 'number', followed by the text to be formatted.
+Another difference is that the .pen file includes additional formatting options for paragraphs and lists, such as the ability to specify bullet points or numbered lists. These formatting options can be specified by using specific keywords, such as 'bullet' or 'number', followed by the text to be formatted.
 
-The .pencil file format combines the formatting capabilities of traditional markdown with the ability to define actions and import libraries in the Pylar programming language, as well as unique formatting options for headings, paragraphs, and lists.
+The .pen file format combines the formatting capabilities of traditional markdown with the ability to define actions and import libraries in the Pylar programming language, as well as unique formatting options for headings, paragraphs, and lists.
 
 ### Feature Comparison
 
 ```
-| Feature                   | .pencil File       | .md File        |
+| Feature                   | .pen File       | .md File        |
 |---------------------------|-----------------|-----------------|
 | Syntax for defining actions and importing libraries | Yes | No |
 | Numbering system for headings, paragraphs, and other text elements | Yes | No |
@@ -56,7 +56,7 @@ The .pencil file format combines the formatting capabilities of traditional mark
 | Definition of attributes | Yes | Yes |
 ```
 
-## 12 Things that pencil can do that .md can't
+## 12 Things that pen can do that .md can't
 
 - Syntax for defining actions and importing libraries in the Pylar programming language
 - Numbering system for headings, paragraphs, and other text elements for easier organization and navigation.
